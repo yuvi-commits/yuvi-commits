@@ -16,4 +16,5 @@ real projects instead of just watching tutorials.
 
 
 **GitHub streaks**
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvi-commits&theme=radical)
