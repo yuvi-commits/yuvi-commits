@@ -13,3 +13,5 @@ real projects instead of just watching tutorials.
 ### 📜 Certifications
 [![Google Skills Badge](https://img.shields.io/badge/Google_Skills-Badge_1-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/df2d972a-d1d7-42f5-bcc7-2aaedf5def0e/badges/24125090)
 [![Google Skills Badge](https://img.shields.io/badge/Google_Skills-Badge_2-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/df2d972a-d1d7-42f5-bcc7-2aaedf5def0e/badges/15378721)
+**GitHub stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvi-commits&show_icons=true&theme=radical)
