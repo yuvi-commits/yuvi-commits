@@ -25,7 +25,7 @@ I'm building my way into offensive security the practical way — writing my own
 
 ### 📫 Where to find me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/yuvrajkumarpal)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yuvrajkumarpal)
 
 
 ---
