@@ -25,8 +25,8 @@ I'm building my way into offensive security the practical way — writing my own
 
 ### 📫 Where to find me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/) — add your profile URL
-- 🎯 TryHackMe profile — add once created
+- 🔗 [LinkedIn](www.linkedin.com/in/yuvrajkumarpal)
+
 
 ---
 
