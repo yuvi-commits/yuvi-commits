@@ -6,7 +6,7 @@ I'm building my way into offensive security the practical way — writing my own
 
 ---
 
-### 🔭 What I'm doing right now
+### 🔭 What I'm doing right now 
 
 - Deepening networking and Linux fundamentals — the base every security role actually tests
 - Building security tooling in Python (see my [port scanner](https://github.com/yuvi-commits/port-scanner))
