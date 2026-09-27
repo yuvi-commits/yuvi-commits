@@ -11,7 +11,7 @@ I'm building my way into offensive security the practical way — writing my own
 - Deepening networking and Linux fundamentals — the base every security role actually tests
 - Building security tooling in Python (see my [port scanner](https://github.com/yuvi-commits/port-scanner))
 - Working through TryHackMe pathways and documenting every room I complete
-- Preparing for **CompTIA Security+**, then **OSCP**
+
 
 ### 🛠️ Things I've built
 
