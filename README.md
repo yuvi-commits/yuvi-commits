@@ -1,14 +1,20 @@
-### Hi, I'm Yuvraj 👋
+Hi, I'm Yuvraj 👋
 
-I'm a Cyber Security and Cyber Forensics student diving into Python — currently learning by building small,
-real projects instead of just watching tutorials.
+I'm a student learning frontend development — HTML, CSS, JavaScript, and currently picking up React. I like turning static ideas into interfaces people can actually click through.
 
-- 🔭 Currently building: [Number Guessing Game](https://github.com/yuvi-commits/number-guessing-game)
-- 🌱 Learning: Python fundamentals, clean code habits, and Git/GitHub workflows
-- 💬 Ask me about: loops, conditionals, and debugging beginner mistakes (I make plenty!)
-- 📫 Reach me: yuvraj.raj2018@gmail.com
-**### 🚀 Featured Project**
-**[Number Guessing Game](https://github.com/yuvi-commits/number-guessing-game)** — a command-line Python game where you guess a random number with limited attempts.
+🔭 Currently Working On
+Building projects with HTML, CSS & JavaScript before moving on to React
+Rebuilding my portfolio site as a React app once the fundamentals are solid
+🚀 Featured Project
+
+Portfolio Site — my personal developer portfolio, built from scratch with HTML, CSS & JavaScript.
+
+🛠️ Other Projects
+Port Scanner — a multithreaded TCP port scanner written in Python
+Number Guessing Game — a command-line Python game
+🧰 Skills
+
+HTML5 CSS3 JavaScript React (learning) Git & GitHub Python
 **### Skill badges**
 ### 📜 Certifications
 [![Google Skills Badge](https://img.shields.io/badge/Google_Skills-Badge_1-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/df2d972a-d1d7-42f5-bcc7-2aaedf5def0e/badges/24125090)
